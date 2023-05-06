@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ExpertCoder101
+- 👀 I’m interested in coding and tech
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on HTML, Java, and Swift
+- 📫 How to reach me: advik.alaska@outlook.com or advik.singh@icloud.com
